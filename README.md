@@ -23,7 +23,7 @@ Os dados do website serão requisitados da [seguinte API](https://tmdb-proxy.cub
 
 #### Clique no link abaixo para acessar o website
 
-- [WebPageStatic](b8oneteste.netlify.app)
+- [CubosFlix](https://webpageflix.netlify.app)
 
 #### Implementações futuras:
 
